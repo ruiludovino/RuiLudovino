@@ -1,7 +1,7 @@
 # 👨‍💻 Rui Ludovino👨‍💻
 **`Desenvolvedor FullStack`**
 
-Me chamo Rui Ludovino, sou natural de Lisboa - Portugal, mas vivo no Rio Grande do Norte - Brasil, na Praia de Pipa. Tenho desenvolvido muitas plataformas ao longos dos últimos 30 anos quase sempre para meus próprios negócios, mas sempre aberto para novos desafios. Sou apaixonado por tecnologia e quando tenho tempo compartilho meu conhecimento através dos meus canais no YouTube "[PremiumApps](https://www.youtube.com/@BestPremiumApps)", e também me pode acompanhar a nível pessoa através do Instagram, com o perfil chamado "[Rui Ludovino](https://www.instagram.com/rui.ludovino/)". E meu portfolio em "[Rui Ludovino]([https://www.instagram.com/rui.ludovino/](https://ruiludovino.com/portfolio/))".
+Me chamo Rui Ludovino, sou natural de Lisboa - Portugal, mas vivo no Rio Grande do Norte - Brasil, na Praia de Pipa. Tenho desenvolvido muitas plataformas ao longos dos últimos 30 anos quase sempre para meus próprios negócios, mas sempre aberto para novos desafios. Sou apaixonado por tecnologia e quando tenho tempo compartilho meu conhecimento através dos meus canais no YouTube "[PremiumApps](https://www.youtube.com/@BestPremiumApps)", e também me pode acompanhar a nível pessoa através do Instagram, com o perfil chamado "[Rui Ludovino](https://www.instagram.com/rui.ludovino/)". E meu portfolio em "[Rui Ludovino](https://ruiludovino.com/portfolio/)".
 
 <p align="left">
     <a href="https://www.youtube.com/@BestPremiumApps?sub_confirmation=1">
